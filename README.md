@@ -8,7 +8,7 @@ Steps to download and use it:
 1) Press the green code button in GitHub and press download zip file
 2) Extract zip file
 3) Double click on .exe file to run it
-4) Ignore the windows warning message that it isn't from a verified publisher
+4) Ignore the Windows warning message that it isn't from a verified publisher 
 5) Run the app and use it
 
 Note that this app doesn't function on Mac and only on Windows.
