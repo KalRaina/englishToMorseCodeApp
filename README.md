@@ -5,7 +5,7 @@ Uses libraries winsound, time, numpy, sounddevice, sys, PyQt5.
 
 Steps to download and use it:
 
-1) Press code, press download zip file
+1) Press the green code button in GitHub and press download zip file
 2) Extract zip file
 3) Double click on .exe file to run it
 4) Ignore the windows warning message that it isn't from a verified publisher
