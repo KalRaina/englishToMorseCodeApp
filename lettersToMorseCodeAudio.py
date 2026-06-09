@@ -6,7 +6,6 @@ import sounddevice as sd
 import sys
 from PyQt5.QtWidgets import *
 
-
 class MorseApp(QWidget):
 
     def __init__(self):
@@ -19,7 +18,7 @@ class MorseApp(QWidget):
 
         leftLayout = QVBoxLayout()
 
-        self.inputBox = QLineEdit() # added input box thingy attribute
+        self.inputBox = QTextEdit() # added input box thingy attribute
         self.inputBox.setMinimumHeight(200)
         self.inputBox.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
         leftLayout.addWidget(self.inputBox, stretch=3) # adding to display

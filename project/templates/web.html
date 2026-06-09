@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Morse Code Generator</title>
+</head>
+<body>
+    <h1>Morse Code Generator</h1>
+
+    <form method="POST">
+        <textarea name="input_text" rows="6" cols="80"></textarea><br><br>
+        <button type="submit">Convert</button>
+    </form>
+
+    <h2>Output:</h2>
+    <p>{{ output }}</p>
+
+    {% if output %}
+    <h2>Play Audio:</h2>
+    <audio controls>
+        <source src="/static/sound.wav" type="audio/wav">
+    </audio>
+    {% endif %}
+</body>
+</html>
