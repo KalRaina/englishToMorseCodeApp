@@ -12,3 +12,5 @@ Steps to download and use it:
 5) Run the app and use it
 
 Note that this app doesn't function on Mac and only on Windows (doesn't work on phones either).
+
+There is also a web app version if you do not want to download it: https://kalhanraina.pythonanywhere.com/. It is hosted on PythonAnywhere.
