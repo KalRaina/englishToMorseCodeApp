@@ -11,4 +11,4 @@ Steps to download and use it:
 4) Ignore the Windows warning message that it isn't from a verified publisher 
 5) Run the app and use it
 
-Note that this app doesn't function on Mac and only on Windows.
+Note that this app doesn't function on Mac and only on Windows (doesn't work on phones either).
